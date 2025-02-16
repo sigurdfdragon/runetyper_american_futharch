@@ -48,6 +48,7 @@ App.Constructor.enterAlphabets(
         include("/data/alphabets/02-younger_futhark.json"),
         include("/data/alphabets/03-medieval_runes.json"),
         include("/data/alphabets/04-gothic_alphabet.json")
+        include("/data/alphabets/05-american_futharch.json")
 );
 
 if (App.Dev.std) {
