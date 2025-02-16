@@ -19,8 +19,8 @@
         },
         {
             "chars": ["ᚦ"],
-            "roman": "þ ð",
-            "keys": ["th", "dh"]
+            "roman": "þ",
+            "keys": ["th"]
         },
         {
             "chars": ["ᚩ"],
@@ -34,8 +34,8 @@
         },
         {
             "chars": ["ᚳ"],
-            "roman": "c",
-            "keys": ["c"]
+            "roman": "ch",
+            "keys": ["ch"]
         },
         {
             "chars": ["ᚷ"],
@@ -44,7 +44,7 @@
         },
         {
             "chars": ["ᚹ"],
-            "roman": "ƿ w",
+            "roman": "w",
             "keys": ["w"]
         },
         {
@@ -64,13 +64,13 @@
         },
         {
             "chars": ["ᛄ"],
-            "roman": "j",
-            "keys": ["j"]
+            "roman": "y",
+            "keys": ["y"]
         },
         {
             "chars": ["ᛇ"],
             "roman": "ï ʒ ɨ",
-            "keys": ["I", "H"]
+            "keys": ["I"]
         },
         {
             "chars": ["ᛈ"],
@@ -79,8 +79,8 @@
         },
         {
             "chars": ["ᛉ"],
-            "roman": "x",
-            "keys": ["x"]
+            "roman": "z",
+            "keys": ["z"]
         },
         {
             "chars": ["ᛋ"],
@@ -128,24 +128,19 @@
             "keys": ["d"]
         },
         {
-            "chars": ["ᚪ"],
-            "roman": "a",
-            "keys": ["a"]
-        },
-        {
-            "chars": ["ᚫ"],
-            "roman": "æ",
-            "keys": ["ae"]
-        },
-        {
             "chars": ["ᚣ"],
-            "roman": "y",
-            "keys": ["y"]
+            "roman": "ull",
+            "keys": ["U"]
         },
         {
             "chars": ["ᛡ"],
-            "roman": "j io ia",
-            "keys": ["J", "io", "ia"]
+            "roman": "v",
+            "keys": ["v"]
+        },
+        {
+            "chars": ["ᛊ"],
+            "roman": "ship",
+            "keys": ["sh"]
         },
         {
             "chars": ["ᛠ"],
@@ -153,29 +148,30 @@
             "keys": ["ea"]
         },
         {
-            "chars": ["ᚸ"],
-            "roman": "ḡ",
-            "keys": ["G"]
+            "chars": ["ᛯ"],
+            "roman": "genre",
+            "keys": ["J"]
         },
         {
-            "chars": ["ᛣ"],
+            "chars": ["ᛨ"],
+            "roman": "ð",
+            "keys": ["dh"]
+        },
+        {
+            "chars": ["ᚴ"],
             "roman": "k",
             "keys": ["k"]
         },
-        {
-            "chars": ["ᛤ"],
-            "roman": "k kk",
-            "keys": ["K"]
-        },
+
         {
             "chars": ["ᛥ"],
-            "roman": "st",
-            "keys": ["st"]
+            "roman": "j",
+            "keys": ["j"]
         },
         {
-            "chars": ["ᛢ"],
-            "roman": "cƿ kw",
-            "keys": ["q"]
+            "chars": ["ᚫ"],
+            "roman": "æ",
+            "keys": ["ae"]
         },
         {
             "chars": ["᛫"],
@@ -188,6 +184,11 @@
             "keys": [":", ";"]
         },
         {
+            "chars": ["⋮"],
+            "roman": "q",
+            "keys": ["q"]
+        },
+        {
             "chars": ["᛭"],
             "roman": "+",
             "keys": ["+", "="]
@@ -195,16 +196,14 @@
     ],
     "order": [
         [
-            ["f", "u", "th", "o", "r", "c", "g", "w"],
-            ["h", "n", "i", "j", "I", "p", "x", "s"],
+            ["f", "u", "th", "o", "r", "ch", "g", "w"],
+            ["h", "n", "i", "y", "I", "p", "z", "s"],
             ["t", "b", "e", "m", "l", "ng", "oe", "d"],
-            ["a", "ae", "y", "io", "ea"]
+            ["U", "v", "sh", "ea", "J", "dh", "k", "j"],
+            ["ae"]
         ],
         [
-            ["G", "k", "K", "st", "q"]
-        ],
-        [
-            [".", ":", "+"]
+            [".", ":", "q", "+"]
         ]
     ]
 }
