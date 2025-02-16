@@ -1,0 +1,210 @@
+{
+    "meta": {
+        "name": {
+            "en": "American Futharch",
+            "pl": "American Futharch"
+        },
+        "sample": "ᚠᚢᚦᚩᚱᚳ"
+    },
+    "entities": [
+        {
+            "chars": ["ᚠ"],
+            "roman": "f",
+            "keys": ["f"]
+        },
+        {
+            "chars": ["ᚢ"],
+            "roman": "u",
+            "keys": ["u"]
+        },
+        {
+            "chars": ["ᚦ"],
+            "roman": "þ ð",
+            "keys": ["th", "dh"]
+        },
+        {
+            "chars": ["ᚩ"],
+            "roman": "o",
+            "keys": ["o"]
+        },
+        {
+            "chars": ["ᚱ"],
+            "roman": "r",
+            "keys": ["r"]
+        },
+        {
+            "chars": ["ᚳ"],
+            "roman": "c",
+            "keys": ["c"]
+        },
+        {
+            "chars": ["ᚷ"],
+            "roman": "g",
+            "keys": ["g"]
+        },
+        {
+            "chars": ["ᚹ"],
+            "roman": "ƿ w",
+            "keys": ["w"]
+        },
+        {
+            "chars": ["ᚻ"],
+            "roman": "h",
+            "keys": ["h"]
+        },
+        {
+            "chars": ["ᚾ"],
+            "roman": "n",
+            "keys": ["n"]
+        },
+        {
+            "chars": ["ᛁ"],
+            "roman": "i",
+            "keys": ["i"]
+        },
+        {
+            "chars": ["ᛄ"],
+            "roman": "j",
+            "keys": ["j"]
+        },
+        {
+            "chars": ["ᛇ"],
+            "roman": "ï ʒ ɨ",
+            "keys": ["I", "H"]
+        },
+        {
+            "chars": ["ᛈ"],
+            "roman": "p",
+            "keys": ["p"]
+        },
+        {
+            "chars": ["ᛉ"],
+            "roman": "x",
+            "keys": ["x"]
+        },
+        {
+            "chars": ["ᛋ"],
+            "roman": "s",
+            "keys": ["s"]
+        },
+        {
+            "chars": ["ᛏ"],
+            "roman": "t",
+            "keys": ["t"]
+        },
+        {
+            "chars": ["ᛒ"],
+            "roman": "b",
+            "keys": ["b"]
+        },
+        {
+            "chars": ["ᛖ"],
+            "roman": "e",
+            "keys": ["e"]
+        },
+        {
+            "chars": ["ᛗ"],
+            "roman": "m",
+            "keys": ["m"]
+        },
+        {
+            "chars": ["ᛚ"],
+            "roman": "l",
+            "keys": ["l"]
+        },
+        {
+            "chars": ["ᛝ"],
+            "roman": "ŋ ng",
+            "keys": ["ng"]
+        },
+        {
+            "chars": ["ᛟ"],
+            "roman": "œ",
+            "keys": ["oe"]
+        },
+        {
+            "chars": ["ᛞ"],
+            "roman": "d",
+            "keys": ["d"]
+        },
+        {
+            "chars": ["ᚪ"],
+            "roman": "a",
+            "keys": ["a"]
+        },
+        {
+            "chars": ["ᚫ"],
+            "roman": "æ",
+            "keys": ["ae"]
+        },
+        {
+            "chars": ["ᚣ"],
+            "roman": "y",
+            "keys": ["y"]
+        },
+        {
+            "chars": ["ᛡ"],
+            "roman": "j io ia",
+            "keys": ["J", "io", "ia"]
+        },
+        {
+            "chars": ["ᛠ"],
+            "roman": "ea",
+            "keys": ["ea"]
+        },
+        {
+            "chars": ["ᚸ"],
+            "roman": "ḡ",
+            "keys": ["G"]
+        },
+        {
+            "chars": ["ᛣ"],
+            "roman": "k",
+            "keys": ["k"]
+        },
+        {
+            "chars": ["ᛤ"],
+            "roman": "k kk",
+            "keys": ["K"]
+        },
+        {
+            "chars": ["ᛥ"],
+            "roman": "st",
+            "keys": ["st"]
+        },
+        {
+            "chars": ["ᛢ"],
+            "roman": "cƿ kw",
+            "keys": ["q"]
+        },
+        {
+            "chars": ["᛫"],
+            "roman": "•",
+            "keys": [".", ","]
+        },
+        {
+            "chars": ["᛬"],
+            "roman": ":",
+            "keys": [":", ";"]
+        },
+        {
+            "chars": ["᛭"],
+            "roman": "+",
+            "keys": ["+", "="]
+        }
+    ],
+    "order": [
+        [
+            ["f", "u", "th", "o", "r", "c", "g", "w"],
+            ["h", "n", "i", "j", "I", "p", "x", "s"],
+            ["t", "b", "e", "m", "l", "ng", "oe", "d"],
+            ["a", "ae", "y", "io", "ea"]
+        ],
+        [
+            ["G", "k", "K", "st", "q"]
+        ],
+        [
+            [".", ":", "+"]
+        ]
+    ]
+}
