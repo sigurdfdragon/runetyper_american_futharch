@@ -3,7 +3,7 @@ Forked from https://sigrarr.github.io/runetyper/
 
 ## Idea and the main functionality
 The purpose of this project is to provide a comfortable way of writing in historical Germanic alphabets, i.e. runic scripts and the Gothic alphabet.
-This version adds the American Futharch runes
+This version adds the American Futharch runes.
 
 Runetyper converts standard keyboard input to the selected alphabet’s characters. The correspondence between typed keys and characters they produce is meant to be both practical and linguistically justified.
 
