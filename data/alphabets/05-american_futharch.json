@@ -118,14 +118,14 @@
             "keys": ["ng"]
         },
         {
-            "chars": ["ᛟ"],
-            "roman": "œ",
-            "keys": ["oe"]
-        },
-        {
             "chars": ["ᛞ"],
             "roman": "d",
             "keys": ["d"]
+        },
+        {
+            "chars": ["ᛟ"],
+            "roman": "œ",
+            "keys": ["oe"]
         },
         {
             "chars": ["ᚣ"],
