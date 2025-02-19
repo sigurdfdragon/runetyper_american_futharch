@@ -43,7 +43,6 @@ include("run.js");
 include("cleanup.js");
 
 App.Constructor.enterAlphabets(
-        include("/data/alphabets/00-elder_futhark.json"),
         include("/data/alphabets/05-american_futharch.json")
 );
 
