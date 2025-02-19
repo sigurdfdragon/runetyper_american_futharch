@@ -1,4 +1,4 @@
-builder
+build.js
 *.tmp.*
 data
 sources
