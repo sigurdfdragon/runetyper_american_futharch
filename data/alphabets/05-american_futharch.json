@@ -9,168 +9,168 @@
     "entities": [
         {
             "chars": ["ᚠ"],
-            "roman": "f",
+            "roman": "/f/ f",
             "keys": ["f"]
         },
         {
             "chars": ["ᚢ"],
-            "roman": "u",
+            "roman": "/u/ u",
             "keys": ["u"]
         },
         {
             "chars": ["ᚦ"],
-            "roman": "þ",
+            "roman": "/θ/ þ",
             "keys": ["th"]
         },
         {
             "chars": ["ᚩ"],
-            "roman": "o",
+            "roman": "/ɑ/ a",
             "keys": ["o"]
         },
         {
             "chars": ["ᚱ"],
-            "roman": "r",
+            "roman": "/r/ r",
             "keys": ["r"]
         },
         {
             "chars": ["ᚳ"],
-            "roman": "ch",
+            "roman": "/ʧ/ c",
             "keys": ["ch"]
         },
         {
             "chars": ["ᚷ"],
-            "roman": "g",
+            "roman": "/g/ g",
             "keys": ["g"]
         },
         {
             "chars": ["ᚹ"],
-            "roman": "w",
+            "roman": "/w/ w",
             "keys": ["w"]
         },
         {
             "chars": ["ᚻ"],
-            "roman": "h",
+            "roman": "/h/ h",
             "keys": ["h"]
         },
         {
             "chars": ["ᚾ"],
-            "roman": "n",
+            "roman": "/n/ n",
             "keys": ["n"]
         },
         {
             "chars": ["ᛁ"],
-            "roman": "i",
+            "roman": "/ɪ/ i",
             "keys": ["i"]
         },
         {
             "chars": ["ᛄ"],
-            "roman": "y",
+            "roman": "/j/ y",
             "keys": ["y"]
         },
         {
             "chars": ["ᛇ"],
-            "roman": "ï ʒ ɨ",
+            "roman": "/i/ e",
             "keys": ["I"]
         },
         {
             "chars": ["ᛈ"],
-            "roman": "p",
+            "roman": "/p/ p",
             "keys": ["p"]
         },
         {
             "chars": ["ᛉ"],
-            "roman": "z",
+            "roman": "/z/ z",
             "keys": ["z"]
         },
         {
             "chars": ["ᛋ"],
-            "roman": "s",
+            "roman": "/s/ s",
             "keys": ["s"]
         },
         {
             "chars": ["ᛏ"],
-            "roman": "t",
+            "roman": "/t/ t",
             "keys": ["t"]
         },
         {
             "chars": ["ᛒ"],
-            "roman": "b",
+            "roman": "/b/ b",
             "keys": ["b"]
         },
         {
             "chars": ["ᛖ"],
-            "roman": "e",
+            "roman": "/ɛ/ ɛ",
             "keys": ["e"]
         },
         {
             "chars": ["ᛗ"],
-            "roman": "m",
+            "roman": "/m/ m",
             "keys": ["m"]
         },
         {
             "chars": ["ᛚ"],
-            "roman": "l",
+            "roman": "/l/ l",
             "keys": ["l"]
         },
         {
             "chars": ["ᛝ"],
-            "roman": "ŋ ng",
+            "roman": "/ŋ/ ŋ",
             "keys": ["ng"]
         },
         {
             "chars": ["ᛞ"],
-            "roman": "d",
+            "roman": "/d/ d",
             "keys": ["d"]
         },
         {
             "chars": ["ᛟ"],
-            "roman": "œ",
+            "roman": "/ɔ/ o",
             "keys": ["oe"]
         },
         {
             "chars": ["ᚣ"],
-            "roman": "ull",
+            "roman": "/ʊ/ ø",
             "keys": ["U"]
         },
         {
             "chars": ["ᛡ"],
-            "roman": "v",
+            "roman": "/v/ v",
             "keys": ["v"]
         },
         {
             "chars": ["ᛊ"],
-            "roman": "ship",
+            "roman": "/ʃ/ ʃ",
             "keys": ["sh"]
         },
         {
             "chars": ["ᛠ"],
-            "roman": "ea",
+            "roman": "/ə/ ə",
             "keys": ["ea"]
         },
         {
             "chars": ["ᛯ"],
-            "roman": "genre",
+            "roman": "/ʒ/ ʒ",
             "keys": ["J"]
         },
         {
             "chars": ["ᛨ"],
-            "roman": "ð",
+            "roman": "/ð/ ð",
             "keys": ["dh"]
         },
         {
             "chars": ["ᚴ"],
-            "roman": "k",
+            "roman": "/k/ k",
             "keys": ["k"]
         },
 
         {
             "chars": ["ᛥ"],
-            "roman": "j",
+            "roman": "/ʤ/ j",
             "keys": ["j"]
         },
         {
             "chars": ["ᚫ"],
-            "roman": "æ",
+            "roman": "/æ/ æ",
             "keys": ["ae"]
         },
         {
