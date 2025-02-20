@@ -2,12 +2,11 @@
 Forked from https://sigrarr.github.io/runetyper/
 
 ## Idea and the main functionality
-The purpose of this project is to provide a comfortable way of writing in historical Germanic alphabets, i.e. runic scripts and the Gothic alphabet.
-This version adds the American Futharch runes.
+The purpose of this project is to provide a comfortable way of writing in American Futharch runes.
 
-Runetyper converts standard keyboard input to the selected alphabet’s characters. The correspondence between typed keys and characters they produce is meant to be both practical and linguistically justified.
+Runetyper converts standard keyboard input to the American Futharch runic characters. The correspondence between typed keys and characters they produce is meant to be both practical and linguistically justified.
 
-The generated output is Unicode text (UTF-8). The application utilizes Unicode blocks Runic and Gothic.
+The generated output is Unicode text (UTF-8). The application utilizes the Unicode Runic block.
 
 ## Building
 ### JavaScript
@@ -21,4 +20,5 @@ The generated output is Unicode text (UTF-8). The application utilizes Unicode b
 3. Output: /assets/style.min.css
 
 ## Licence
-Feel free to use this project on the condition that it will be noticed in any published derivative work, with the link to this repository (<https://github.com/Sigrarr/runetyper>) or to the Runetyper GitHub Page (<https://sigrarr.github.io/runetyper/>).
+Feel free to use this project on the condition that it will be noticed in any published derivative work, with the link to this repository (<https://github.com/sigurdfdragon/unetyper_american_futharch>) or to the Runetyper GitHub Page (<https://sigurdfdragon.github.io/unetyper_american_futharch/>).
+And also a link to the original repository (<https://github.com/Sigrarr/runetyper>) or to the original Runetyper GitHub Page (<https://sigrarr.github.io/runetyper/>).
