@@ -154,6 +154,7 @@ dt {
     width: calc(50% - #{$tileSize*2.5});
     padding-right: 2*$spaceS;
     text-align: right;
+    font-style: italic;
     &:after {
         display: inline;
         content: ":";
