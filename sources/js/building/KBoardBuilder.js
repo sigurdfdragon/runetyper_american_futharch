@@ -94,7 +94,7 @@ App.KBoardBuilder = {
         var romans = entity.roman.split(' ');
         box.appendChild(newElement(
                 "p", ["roman", "typetext"], null, [
-                    newElement("", null, null, [
+                    newElement(null, null, null, [
                         newElement("span", null, null, [newText(romans[0])])
                     ].concat(
                         romans.length > 1 ? [newText(" " + romans.slice(1).join(' '))] : []
